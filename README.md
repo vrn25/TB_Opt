@@ -1,6 +1,6 @@
 # TB_Opt: A General Game Theoretic Recursive Framework for Turn-Based Optimization
 
-This repository contains the PyTorch code for TB_Opt framework. The project report can be found [here](https://drive.google.com/file/d/1ujJ0_OtIe10XNCQf9StGYnVAQCqv8MXH/view?usp=sharing). 
+This repository contains the PyTorch code for TB_Opt framework. The technical report can be found [here](https://drive.google.com/file/d/1L68uYLje17KQEtqo5FkgyLnjXmkXnWZj/view?usp=sharing). 
 
 The code is organized as follows:
 ```
